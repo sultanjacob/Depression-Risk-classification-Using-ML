@@ -2,3 +2,4 @@
 using machine learning to predict whether an individual is at an high risk of depression based on survey responses
 I am using a dataset called PH9-Student Depression from medeley
 I will come up with a Machine Learning Pipeline that encompasses a lot of strategies to make this happen.
+This is a work in progress and a learning process, so it will take some time
