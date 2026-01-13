@@ -43,14 +43,9 @@ The project revealed a critical insight: **Linear models significantly outperfor
 * **The Victory of Linearity:** Since the PHQ-9 score is a mathematical sum of symptoms, linear models (SVM) drew near-perfect decision boundaries. Random Forest struggled by trying to create complex "if/else" rules for a simple summing problem.
 * **Feature Analysis:** Symptoms like *"Little interest"* and *"Feeling tired"* were the most frequent drivers of severity classification, while *"Suicidal thoughts"* had lower statistical importance due to its rarity, despite its high clinical importance.
 
-## 📸 Visualizations
-*(You can upload your charts here, e.g., Confusion Matrix, Feature Importance)*
-
 ## 🚀 How to Run
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/depression-risk-classification.git](https://github.com/your-username/depression-risk-classification.git)
-    ```
+    
 2.  **Install dependencies:**
     ```bash
     pip install pandas numpy scikit-learn seaborn matplotlib
